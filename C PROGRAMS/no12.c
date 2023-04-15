@@ -25,7 +25,7 @@ int main()
                 printf("result of %d - %d = %.2f", first_num, sec_num, result);
                 break;
             
-        case 3: printf("Diviion\n");
+        case 3: printf("Division\n");
                 printf("enter first number : ");
                 scanf("%d",&first_num);
                 printf("enter second number : ");
