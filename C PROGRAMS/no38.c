@@ -14,6 +14,6 @@ int main()
          }
       }
    }
-   printf("max = %d",num[5]);
+   printf("max element of an array = %d",num[5]);
    return 0;
 }
