@@ -12,6 +12,6 @@ int main()
     {
         avg=avg+num[i];
     }
-    printf("avg = %.2f",avg/5);
+    printf("average of the given 5 numbers = %.2f",avg/5);
     return 0;
 }
